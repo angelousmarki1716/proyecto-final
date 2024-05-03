@@ -192,3 +192,30 @@ body{
 	position: relative;
 	left: 350px;
 }
+@media (max-width: 700px) {
+	body{
+		background-color: red;
+
+	}
+	#figura-1{
+	bottom: 400px;
+	position: relative;
+	left: 460px;
+
+}
+#figura-2{
+	bottom: 900px;
+	position: relative;
+	left: 100PX;
+
+}
+#figura-3{
+	bottom: -100px;
+	position: relative;
+	left: -245px;
+}
+	.contenedor{
+		position: relative;
+		top: 500px;
+	}
+}
